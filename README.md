@@ -54,9 +54,7 @@
 
 ---
 ### ⋆౨ৎ˚⟡˖ ࣪  current projects 
-```
-
-```
+- [**disease-spread-sim**](https://github.com/miyanity/disease-spread-sim) – a python-based simulation that models how diseases spread using OOP, probability, and matplotlib 
 ---
 
 ### ⋆౨ৎ˚⟡˖ ࣪ socials
