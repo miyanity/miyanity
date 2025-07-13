@@ -12,7 +12,7 @@
 
 ```bash
 🪷 hi hi, im miy!
-🩰 comp sci + molecular @ towson university  
+🩰 comp sci + molecular biology @ towson university  
 🧚🏽 aesthetic developer + healthcare tech
 🫧 passionate abt building tech that heals
 ✨ lover of terminal windows + super cute ui
