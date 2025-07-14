@@ -54,7 +54,8 @@
 
 ---
 ### ⋆౨ৎ˚⟡˖ ࣪  current projects 
-- [**disease-spread-sim**](https://github.com/miyanity/disease-spread-sim) – a python-based simulation that models how diseases spread using OOP, probability, and matplotlib 
+- [**disease spread simulator**](https://github.com/miyanity/disease-spread-sim) – a python-based simulation that models how diseases spread using OOP, probability, and matplotlib 
+- [**zodiac generator**](https://github.com/miyanity/zodiac-gen) – simple python zodiac generator that tells the user their sign based on input 
 ---
 
 ### ⋆౨ৎ˚⟡˖ ࣪ socials
